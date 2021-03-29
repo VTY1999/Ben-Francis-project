@@ -1,0 +1,24 @@
+#header-img {
+   width : 300px;
+}
+@media{
+    p {
+        font-size: 15px;
+    }
+}
+#header {
+display: flex;
+justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: auto;
+    z-index: 1;
+    background-color: #EEE;
+
+}
+#form {
+    margin-top: 70px;
+}
